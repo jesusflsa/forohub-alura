@@ -1,0 +1,1 @@
+ALTER TABLE topicos ADD COLUMN fecha datetime not null;
